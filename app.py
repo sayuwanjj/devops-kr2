@@ -1,3 +1,4 @@
+# KR2: Gryaznova
 import os
 import socket
 
